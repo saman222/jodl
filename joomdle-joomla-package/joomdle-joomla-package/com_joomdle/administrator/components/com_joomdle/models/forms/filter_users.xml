@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fields name="filter">
+		<field
+			name="search"
+			type="text"
+			label="COM_JOOMDLE_SEARCH"
+			description="COM_JOOMDLE_SEARCH"
+			hint="COM_JOOMDLE_SEARCH"
+		/>
+		<field
+			name="state"
+			type="joomdleuser"
+			label="COM_JOOMDLE_SELECT_USERS"
+			description="COM_JOOMDLE_SELECT_USERS"
+			hint="JSEARCH_FILTER"
+			onchange="this.form.submit();"
+		>
+		</field>
+	</fields>
+	<fields name="list">
+		<field
+			name="limit"
+			type="limitbox"
+			class="input-mini"
+			default="25"
+			label="COM_CONTENT_LIST_LIMIT"
+			description="COM_CONTENT_LIST_LIMIT_DESC"
+			onchange="this.form.submit();"
+		/>
+	</fields>
+</form>
