@@ -15,6 +15,7 @@
 	<languages folder="language">
                 <language tag="es-ES">es-ES.plg_search_coursecategories.ini</language>
                 <language tag="en-GB">en-GB.plg_search_coursecategories.ini</language>
+                <language tag="fa-IR">fa-IR.plg_search_coursecategories.ini</language>
                 <language tag="fr-FR">fr-FR.plg_search_coursecategories.ini</language>
                 <language tag="ro-RO">ro-RO.plg_search_coursecategories.ini</language>
                 <language tag="de-DE">de-DE.plg_search_coursecategories.ini</language>

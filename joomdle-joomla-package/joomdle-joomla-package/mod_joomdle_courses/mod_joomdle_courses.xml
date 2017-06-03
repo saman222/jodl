@@ -18,6 +18,8 @@
 	<languages>
 		<language tag="en-GB">language/en-GB.mod_joomdle_courses.sys.ini</language>
 		<language tag="en-GB">language/en-GB.mod_joomdle_courses.ini</language>
+		<language tag="fa-IR">language/fa-IR.mod_joomdle_courses.sys.ini</language>
+		<language tag="fa-IR">language/fa-IR.mod_joomdle_courses.ini</language>
 		<language tag="es-ES">language/es-ES.mod_joomdle_courses.ini</language>
 		<language tag="pt-BR">language/pt-BR.mod_joomdle_courses.ini</language>
 		<language tag="de-DE">language/de-DE.mod_joomdle_courses.ini</language>

@@ -14,6 +14,7 @@
 	</files>
 	  <languages>
 		<language tag="en-GB">language/en-GB.plg_user_joomdlehooks.ini</language>
+		<language tag="fa-IR">language/fa-IR.plg_user_joomdlehooks.ini</language>
 		<language tag="es-ES">language/es-ES.plg_user_joomdlehooks.ini</language>
 		<language tag="de-DE">language/de-DE.plg_user_joomdlehooks.ini</language>
 		<language tag="fr-FR">language/fr-FR.plg_user_joomdlehooks.ini</language>

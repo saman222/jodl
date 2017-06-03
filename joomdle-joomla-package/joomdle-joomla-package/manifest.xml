@@ -36,6 +36,7 @@
 
     <languages>
 	<language tag="en-GB">com_joomdle/language/en-GB/en-GB.com_joomdle.ini</language>
+	<language tag="fa-IR">com_joomdle/language/fa-IR/fa-IR.com_joomdle.ini</language>
 	<language tag="es-ES">com_joomdle/language/es-ES/es-ES.com_joomdle.ini</language>
 	<language tag="pt-BR">com_joomdle/language/pt-BR/pt-BR.com_joomdle.ini</language>
 	<language tag="el-GR">com_joomdle/language/el-GR/el-GR.com_joomdle.ini</language>
@@ -87,6 +88,8 @@
     <languages>
 		<language tag="en-GB">com_joomdle/administrator/language/en-GB/en-GB.com_joomdle.sys.ini</language>
 		<language tag="en-GB">com_joomdle/administrator/language/en-GB/en-GB.com_joomdle.ini</language>
+		<language tag="fa-IR">com_joomdle/administrator/language/fa-IR/fa-IR.com_joomdle.sys.ini</language>
+		<language tag="fa-IR">com_joomdle/administrator/language/fa-IR/fa-IR.com_joomdle.ini</language>
 		<language tag="es-ES">com_joomdle/administrator/language/es-ES/es-ES.com_joomdle.sys.ini</language>
 		<language tag="es-ES">com_joomdle/administrator/language/es-ES/es-ES.com_joomdle.ini</language>
 		<language tag="pt-BR">com_joomdle/administrator/language/pt-BR/pt-BR.com_joomdle.sys.ini</language>
@@ -115,6 +118,8 @@
 	<languages folder="mod_joomdle_courses/language">
 		<language tag="en-GB">en-GB.mod_joomdle_courses.sys.ini</language>
 		<language tag="en-GB">en-GB.mod_joomdle_courses.ini</language>
+			<language tag="fa-IR">fa-IR.mod_joomdle_courses.sys.ini</language>
+		<language tag="fa-IR">fa-IR.mod_joomdle_courses.ini</language>
 		<language tag="es-ES">es-ES.mod_joomdle_courses.ini</language>
 		<language tag="pt-BR">pt-BR.mod_joomdle_courses.ini</language>
 		<language tag="de-DE">de-DE.mod_joomdle_courses.ini</language>
@@ -133,6 +138,7 @@
         </files>
 	<languages folder="mod_joomdle_my_courses/language">
 		<language tag="en-GB">en-GB.mod_joomdle_my_courses.ini</language>
+		<language tag="fa-IR">fa-IR.mod_joomdle_my_courses.ini</language>
 		<language tag="es-ES">es-ES.mod_joomdle_my_courses.ini</language>
 		<language tag="pt-BR">pt-BR.mod_joomdle_my_courses.ini</language>
 		<language tag="de-DE">de-DE.mod_joomdle_my_courses.ini</language>
@@ -152,6 +158,7 @@
     <languages folder="plg_joomdlehooks/language">
         <language tag="es-ES">es-ES.plg_user_joomdlehooks.ini</language>
         <language tag="en-GB">en-GB.plg_user_joomdlehooks.ini</language>
+        <language tag="fa-IR">fa-IR.plg_user_joomdlehooks.ini</language>
         <language tag="de-DE">de-DE.plg_user_joomdlehooks.ini</language>
         <language tag="fr-FR">fr-FR.plg_user_joomdlehooks.ini</language>
         <language tag="it-IT">it-IT.plg_user_joomdlehooks.ini</language>
@@ -175,6 +182,7 @@
     <languages folder="plg_search_courses/language">
         <language tag="es-ES">es-ES.plg_search_courses.ini</language>
         <language tag="en-GB">en-GB.plg_search_courses.ini</language>
+        <language tag="fa-IR">fa-IR.plg_search_courses.ini</language>
         <language tag="fr-FR">fr-FR.plg_search_courses.ini</language>
         <language tag="it-IT">it-IT.plg_search_courses.ini</language>
     </languages>
@@ -188,6 +196,7 @@
     <languages folder="plg_search_coursecategories/language">
         <language tag="es-ES">es-ES.plg_search_coursecategories.ini</language>
         <language tag="en-GB">en-GB.plg_search_coursecategories.ini</language>
+        <language tag="fa-IR">fa-IR.plg_search_coursecategories.ini</language>
         <language tag="fr-FR">fr-FR.plg_search_coursecategories.ini</language>
         <language tag="it-IT">it-IT.plg_search_coursecategories.ini</language>
     </languages>
@@ -201,6 +210,7 @@
     <languages folder="plg_search_coursetopics/language">
         <language tag="es-ES">es-ES.plg_search_coursetopics.ini</language>
         <language tag="en-GB">en-GB.plg_search_coursetopics.ini</language>
+        <language tag="fa-IR">fa-IR.plg_search_coursetopics.ini</language>
         <language tag="fr-FR">fr-FR.plg_search_coursetopics.ini</language>
         <language tag="it-IT">it-IT.plg_search_coursetopics.ini</language>
     </languages>
