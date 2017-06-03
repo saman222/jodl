@@ -26,6 +26,7 @@ class JFormFieldCurrency extends JFormFieldList
         {
 			$currencies = array('USD' => 'US Dollars',
 				  'EUR' => 'Euros',
+				  'IRR'=>'Toman',
 				  'JPY' => 'Japanese Yen',
 				  'GBP' => 'British Pounds',
 				  'CAD' => 'Canadian Dollars',
