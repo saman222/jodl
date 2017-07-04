@@ -41,7 +41,8 @@ if ($ADMIN->fulltree) {
 
     $settings->add(new admin_setting_configtext('enrol_joomdle/cost', get_string('cost', 'enrol_joomdle'), '', 0, PARAM_FLOAT, 4));
 
-    $paypalcurrencies = array('USD' => 'US Dollars',
+    $paypalcurrencies = array('TOM' => 'تومان',
+								'USD' => 'US Dollars',
                               'EUR' => 'Euros',
                               'JPY' => 'Japanese Yen',
                               'GBP' => 'British Pounds',
@@ -49,7 +50,7 @@ if ($ADMIN->fulltree) {
                               'AUD' => 'Australian Dollars',
 							  'CNY' => 'Renminbi'
                              );
-    $settings->add(new admin_setting_configselect('enrol_joomdle/currency', get_string('currency', 'enrol_joomdle'), '', 'USD', $paypalcurrencies));
+    $settings->add(new admin_setting_configselect('enrol_joomdle/currency', get_string('currency', 'enrol_joomdle'), '', 'TOM', $paypalcurrencies));
 
     $settings->add(new admin_setting_configtextarea('enrol_joomdle/enrol_message', get_string('enrol_message', 'enrol_joomdle'), '', 0, PARAM_RAW));
 
